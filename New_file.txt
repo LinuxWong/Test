@@ -1,1 +1,3 @@
 我想看看 git pull 是不是 将远程同步到本地
+
+	wo kan kan  git push -a origin master
